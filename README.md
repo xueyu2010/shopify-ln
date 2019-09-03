@@ -15,10 +15,9 @@ Prerequisite:
 1. Setting -> checkout  -> additional scripts
 
 ![Settings](/images/1.jpg)
-Format: ![settings page](url)
+![Additioanl Scripts Page](/images/2.jpg)
 
- [Settings](https://github.com/xueyu2010/shopify-ln/blob/master/images/1.jpg)
- [Additioanl Scripts Page](https://github.com/xueyu2010/shopify-ln/blob/master/images/2.jpg)
+
 
 ``` js
 <script type="text/javascript" src=${STATIC_PATH_OF_SHOPIFYPAY.JS_FILE}></script>
@@ -32,3 +31,6 @@ new CoboShopify({
 Config shopify payment. In settings -> payment provide -> Manual payments
 Config custom payment.
 Note the enter Bitcoin keywords in the customize payment name
+
+![Payment Provide](/images/3.jpg)
+![Manual Paymetns](/images/4.jpg)
