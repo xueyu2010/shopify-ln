@@ -14,6 +14,9 @@ Prerequisite:
 ## Step 2 - Config your Shopify
 1. Setting -> checkout  -> additional scripts
 
+![Settings](/images/1.jpg)
+Format: ![settings page](url)
+
  [Settings](https://github.com/xueyu2010/shopify-ln/blob/master/images/1.jpg)
  [Additioanl Scripts Page](https://github.com/xueyu2010/shopify-ln/blob/master/images/2.jpg)
 
