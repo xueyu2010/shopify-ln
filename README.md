@@ -14,6 +14,9 @@ Prerequisite:
 ## Step 2 - Config your Shopify
 1. Setting -> checkout  -> additional scripts
 
+ [Settings](https://github.com/xueyu2010/shopify-ln/blob/master/images/1.jpg)
+ [Additioanl Scripts Page](https://github.com/xueyu2010/shopify-ln/blob/master/images/2.jpg)
+
 ``` js
 <script type="text/javascript" src=${STATIC_PATH_OF_SHOPIFYPAY.JS_FILE}></script>
 <script type="text/javascript">
