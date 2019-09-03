@@ -8,6 +8,7 @@ Prerequisite:
 - create following two API to generate lightning voice and checking order orderStatus
 
 `${domain}/commerce/order/?key=${token}&order=${p}&coin=BTC`
+
 `${domain}/commerce/create_order/`;
 
 
